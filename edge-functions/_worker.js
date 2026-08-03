@@ -1,2 +1,1 @@
-import index from './index.js';
-export default index;
+export { default } from './index.js';
